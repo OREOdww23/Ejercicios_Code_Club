@@ -79,6 +79,21 @@ span.links-menu {
     font-weight: bold;
 }
 
+#contact-info  {
+    font-size: 18pt;
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: #6e8db1;
+    display: block;
+    text-align: center;
+}
+#contact-info strong {
+    font-weight: bold;
+    font-size: 22pt;
+    color: #577394;
+    font-family: 'Poppins';
+}
+
 #servicios-list {
     display: inline-block;
     text-align: left;
